@@ -4,6 +4,7 @@ use soroban_sdk::{contract, contractimpl, vec, Env, String, Vec};
 #[contract]
 pub struct Contract;
 
+
 // This is a sample contract. Replace this placeholder with your own contract logic.
 // A corresponding test example is available in `test.rs`.
 //
