@@ -2,6 +2,7 @@
 
 ## Overview
 
+
 This is a hybrid prediction market contract built on Stellar using Soroban that combines oracle-based resolution with community voting. The contract now supports **real integration** with the **Reflector Oracle** (Contract: `CALI2BYU2JE6WVRUFYTS6MSBNEHGJ35P4AVCZYF3B6QOE3QKOB2PLE6M`) for live price data.
 
 ## Key Features
